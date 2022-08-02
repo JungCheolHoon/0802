@@ -24,8 +24,6 @@ public class SungjukMgmt {			// Method를 이용한 성적관리프로그램
 		System.out.print("수학점수 입력하세요 : ");
 		student.mat = sc.nextInt();
 		sc.nextLine();
-		
-			
 	}
 	static void calc(Student student) {
 		

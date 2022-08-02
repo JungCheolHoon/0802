@@ -35,7 +35,5 @@ public class Test {
 //			}
 //			System.out.println("(" + score[i] + "점)");
 //		}
-		
-		
 	}
 }
