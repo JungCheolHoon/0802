@@ -2,8 +2,8 @@
 public class ArrayDemo1 {
 	public static void main(String[] args) {
 		
-		int [][] array1 = new int[][] {{1,2,3},{4,5,6},{7,8,9}};
-		int [][] array2 = {{1,2,3},{4,5,6},{7,8,9}};
+		int [][] array1 = new int[][] {{1,2,3},{4,5,6},{7,8,9}};	// 위아래두개다 같은 선언
+		int [][] array2 = {{1,2,3},{4,5,6},{7,8,9}};					// 아래위두개다 같은 선언
 		
 		for(int i = 0 ; i < array1.length ; i++) {
 			for(int j = 0 ; j < array1[i].length ; j++) {
